@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-*You can reach out to me through the following ways.*
+
 ### Contact Me
+*You can reach out to me through the following ways.*
 * **Email :** aniwenepersonal@gmail.com
 * **Social :** aniwenemadolomani
 * **Website :** www.aniwene.com
