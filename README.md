@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+*You can reach out to me through the following ways.*
+### Contact Me
+* **Email :** aniwenepersonal@gmail.com
+* **Social :** aniwenemadolomani
+* **Website :** www.aniwene.com
+
+
+## Projects
+
+## Business
+
+## Philanthropy
+
+## More
+
+#### Useful Links
+H . I . [G](https://ghirex.com) . H . [W](https://wenema.com) . [A](https://aniwene.com) . [Y](https://yiktov.com)
