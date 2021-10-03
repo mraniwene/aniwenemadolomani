@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 #### Technology
 [Deby Programming Language](#) 
 #### Writting
-- Books [Blite Diamond](#) | [I AM](#)
+[Blite Diamond](#) | [I AM](#)
 
 ## Business
 ### Ghirex Ltd
