@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+# About Me
 
 ### Contact Me
 *You can reach out to me through the following ways.*
@@ -24,20 +24,20 @@ Here are some ideas to get you started:
 * **Website :** www.aniwene.com
 
 
-## Projects
+# Projects
 #### Technology
 [Deby Programming Language](#) 
 #### Writting
 [Blite Diamond](#) | [I AM](#)
 
 ## Business
-### Ghirex Ltd
+#### Ghirex Ltd
 A software and hardware company that focuses on research, innovation and reinvention. Has a vision of Innovating a Significant, Smart, and eco-friendly future. Are planning to reach that goal by Simplifying and creating better life while ensuring highest customer satisfaction.
 
 [Ghirex Ltd - *Official Website*](https://ghirex.com) | [Ghirex Cloud](https://cloud.ghirex.com) | [Ghirex Ads](https://ads.ghirex.com)
 
 ## Philanthropy
-### Wenema Foundation
+#### Wenema Foundation
 An international organization that provides support to the less fortunate focusing on orphans, special needs people, people facing extreme poverty and those facing natural calamities.
 
 [Wenema Foundation - *Official Website*](https://wenema.com) 
