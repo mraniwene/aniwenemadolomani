@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ## Projects
-### Tech Projects
+#### Tech Projects
 [Deby Programming Language](#) | [Ghirex Cloud]() | [Ghirex Ads]()
 ## Business
 ### Ghirex Ltd
