@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 #### Writting
 [Blite Diamond](#) | [I AM](#)
 
-## Business
+# Business
 #### Ghirex Ltd
 A software and hardware company that focuses on research, innovation and reinvention. Has a vision of Innovating a Significant, Smart, and eco-friendly future. Are planning to reach that goal by Simplifying and creating better life while ensuring highest customer satisfaction.
 
 [Ghirex Ltd - *Official Website*](https://ghirex.com) | [Ghirex Cloud](https://cloud.ghirex.com) | [Ghirex Ads](https://ads.ghirex.com)
 
-## Philanthropy
+# Philanthropy
 #### Wenema Foundation
 An international organization that provides support to the less fortunate focusing on orphans, special needs people, people facing extreme poverty and those facing natural calamities.
 
 [Wenema Foundation - *Official Website*](https://wenema.com) 
 
-## More
+# More
 
 #### Useful Links
 H . I . [G](https://ghirex.com) . H . [W](https://wenema.com) . [A](https://aniwene.com) . [Y](https://yiktov.com)
