@@ -37,6 +37,10 @@ A software and hardware company that focuses on research, innovation and reinven
 [Ghirex Ltd - *Official Website*](https://ghirex.com) | [Ghirex Cloud](https://cloud.ghirex.com) | [Ghirex Ads](https://ads.ghirex.com)
 
 ## Philanthropy
+### Wenema Foundation
+An international organization that provides support to the less fortunate focusing on orphans, special needs people, people facing extreme poverty and those facing natural calamities.
+
+[Wenema Foundation - *Official Website*](https://wenema.com) 
 
 ## More
 
