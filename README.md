@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Projects
 ### Tech Projects
-[Deby Programming Language]() | [Ghirex Cloud]() | [Ghirex Ads]()
+[Deby Programming Language](#) | [Ghirex Cloud]() | [Ghirex Ads]()
 ## Business
 ### Ghirex Ltd
 A software and hardware company that focuses on research, innovation and reinvention. Has a vision of Innovating a Significant, Smart, and eco-friendly future. Are planning to reach that goal by Simplifying and creating better life while ensuring highest customer satisfaction.
