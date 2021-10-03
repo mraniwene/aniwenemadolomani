@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 *Some of Businesses i engage with*
 ### Ghirex Ltd
 A software and hardware company that focuses on research, innovation and reinvention. Has a vision of Innovating a Significant, Smart, and eco-friendly future. Are planning to reach that goal by Simplifying and creating better life while ensuring highest customer satisfaction.
-- Links [Ghirex Ltd](https://ghirex.com) | [Ghirex Cloud](https://cloud.ghirex.com) | [Ghirex Ads](https://ads.ghirex.com)
+
+[Ghirex Ltd](https://ghirex.com) | [Ghirex Cloud](https://cloud.ghirex.com) | [Ghirex Ads](https://ads.ghirex.com)
 
 ## Philanthropy
 
