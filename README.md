@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # Projects
 #### Technology
-[Deby Programming Language](#) 
+[Deby Programming Language](https://github.com/aniwenemadolomani/Deby) 
 #### Writting
 [Blite Diamond](#) | [I AM](#)
 
